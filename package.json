@@ -1,0 +1,23 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello":"node helloworld.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mey21009/262.git"
+  },
+  "keywords": [
+    "262"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mey21009/262/issues"
+  },
+  "homepage": "https://github.com/mey21009/262#readme"
+}
